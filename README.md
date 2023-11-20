@@ -1,2 +1,4 @@
 # pong_game
-A little pong game i developped to practise python turtle graphics
+A little pong game I developped to practise python turtle graphics.
+
+<img src="demo-images/pong-demo.png" width=80%/>
